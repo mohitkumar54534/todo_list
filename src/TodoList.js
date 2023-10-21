@@ -28,7 +28,7 @@ function TodoList() {
 
   return (
     <div>
-      <h1>Todo List</h1>
+      <h1>ToDo List</h1>
       <input
         type="text"
         placeholder="Add a new task"
